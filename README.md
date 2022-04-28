@@ -1,2 +1,2 @@
 # QAA
-QAA - utility/registration token
+QAA - Asset Backed Utility / Project Token 
